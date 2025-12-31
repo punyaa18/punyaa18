@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I’m Punyaa!!
 
-<!--
-**punyaa18/punyaa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science graduate who genuinely enjoys learning, building, and experimenting with technology. I’m especially interested in AI, automation, and creating practical systems that solve real-world problems.
 
-Here are some ideas to get you started:
+Currently working with Microsoft Power Platform and AI integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actively learning Azure OpenAI, AWS, Power Automate, and Python
+
+Expanding my skills in Git, GitHub, and Linux
+
+Happy to talk about automation, AI fundamentals, and learning by building
+
+Connect with me:
+
+LinkedIn: https://linkedin.com/in/punyaa-dixit
+
+Blogs: https://blogs.perficient.com/author/pdixit/
+
+I enjoy taking on challenging concepts and growing through hands-on work.
