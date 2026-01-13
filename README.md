@@ -9,8 +9,8 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
 
 Connect with me
 
-🔗 LinkedIn: https://linkedin.com/in/punyaa-dixit
-🌐 Porfolio: https://punyaa18.github.io/Portfolio/
+🔗 LinkedIn: https://linkedin.com/in/punyaa-dixit  
+🌐 Porfolio: https://punyaa18.github.io/Portfolio/  
 ✍️ Blogs: https://blogs.perficient.com/author/pdixit/
 
 I enjoy taking on challenging concepts and growing through hands-on work.
