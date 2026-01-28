@@ -14,6 +14,7 @@ Connect with me
 ✍️ Blogs: https://blogs.perficient.com/author/pdixit/
 
 I enjoy taking on challenging concepts and growing through hands-on work.
+(Reach out to me via linkedin)
 
 ![snake gif](https://github.com/punyaa18/punyaa18/blob/output/github-snake.svg)
 
