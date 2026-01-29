@@ -4,9 +4,8 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
 
 💼 Currently working with Microsoft Power Platform and AI integrations  
 📘 Actively learning Azure OpenAI, AWS, Power Automate, and Python  
-🛠️ Expanding my skills in Git, GitHub, and Linux  
-💬 Happy to talk about automation, AI fundamentals, and learning by building  
-
+🛠️ Expanding my skills in Git, GitHub, Docker, and Linux  
+💬 Happy to talk about automation, AI fundamentals, Cloud and Devops
 Connect with me
 
 🔗 LinkedIn: https://linkedin.com/in/punyaa-dixit  
