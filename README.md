@@ -2,7 +2,6 @@
 
 I’m a Computer Science graduate who genuinely enjoys learning, building, and experimenting with technology. I’m especially interested in AI, automation, and creating practical systems that solve real-world problems.
 
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -11,7 +10,7 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="90"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="90"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="90"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github-discussions/github-discussions.png" alt="Galaxy Brain" width="90"/>
+  <img src="https://github.com/user-attachments/assets/2982135d-5e3b-4647-8e0c-67019dd12bc4" alt="Galaxy Brain" width="90"/>
 </p>
 
 <p align="center">
@@ -23,9 +22,6 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
   🧠 Galaxy Brain
 </p>
 
-<p align="center">
-  <sub>🧠 Galaxy Brain — Awarded for high-quality, helpful contributions in GitHub Discussions</sub>
-</p>
 
 
 
