@@ -11,6 +11,7 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="90"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="90"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="90"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github-discussions/github-discussions.png" alt="Galaxy Brain" width="90"/>
 </p>
 
 <p align="center">
@@ -18,8 +19,14 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
   👯 Pair Extraordinaire &nbsp;•&nbsp;
   🔥 YOLO &nbsp;•&nbsp;
   ⚡ Quickdraw &nbsp;•&nbsp;
-  🦈 Pull Shark
+  🦈 Pull Shark &nbsp;•&nbsp;
+  🧠 Galaxy Brain
 </p>
+
+<p align="center">
+  <sub>🧠 Galaxy Brain — Awarded for high-quality, helpful contributions in GitHub Discussions</sub>
+</p>
+
 
 
 💼 **Currently working with** Microsoft Power Platform and AI integrations  
