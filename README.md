@@ -13,7 +13,7 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
 ##  Connect with Me
 
 🔗 **LinkedIn**: https://linkedin.com/in/punyaa-dixit  
-🌐 **Portfolio**: (fixing the link)   
+🌐 **Portfolio**: (fixing the link)  
 ✍️ **Blogs**: https://blogs.perficient.com/author/pdixit/
 
 
