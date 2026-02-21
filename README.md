@@ -1,7 +1,7 @@
 ## Hey, I’m Punyaa! 👋 
 
 I’m a Computer Science graduate who genuinely enjoys learning, building, and experimenting with technology. I’m especially interested in AI, automation, and creating practical systems that solve real-world problems.
-
+       
 
 💼 **Currently working with** Microsoft Power Platform and AI integrations  
 📘 **Actively learning** Azure OpenAI, AWS, Power Automate, and Python  
