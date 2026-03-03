@@ -1,12 +1,9 @@
 name: GitHub Snake Game
 
 on:
-  # Schedule daily at midnight UTC
   schedule:
-    - cron: "0 0 * * *"
-
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -20,14 +17,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contributions Snake Animations
+      - name: Generate GitHub Contributions Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-
-          # 👇 ADD THIS LINE
-          contribution_range: 2025-08-01..2026-08-31
-
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
