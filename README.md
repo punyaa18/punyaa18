@@ -9,7 +9,6 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
 - **Happy to talk about** automation, AI fundamentals, Cloud, and DevOps
 
 
-
 ##  Connect with Me 
 
 - **LinkedIn**: https://linkedin.com/in/punyaa-dixit   
@@ -18,6 +17,5 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
 - **Email Id**: punyaa184@gmail.com
 
 I enjoy taking on challenging concepts and growing through hands-on work.
-
 
 ![snake gif](https://github.com/punyaa18/punyaa18/blob/output/github-snake.svg)
