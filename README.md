@@ -1,4 +1,4 @@
-## Hey, I’m Punyaa! 👋🏻
+## Hey, I’m Punyaa!  👋🏻
 
 I’m a Computer Science graduate who genuinely enjoys learning, building, and experimenting with technology. I’m especially interested in AI, automation, devOps and creating practical systems that solve real-world problems. 
        
