@@ -14,8 +14,6 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
 - **LinkedIn**: https://linkedin.com/in/punyaa-dixit   
 - **Portfolio**: https://punyaa18.github.io/Portfolio/  
 - **Blogs**: https://blogs.perficient.com/author/pdixit/  
-- **Email Id**: punyaa184@gmail.com  
-   (feel free to reach out to me)   
 I enjoy taking on challenging concepts and growing through hands-on work.
 
 ![snake gif](https://github.com/punyaa18/punyaa18/blob/output/github-snake.svg)
