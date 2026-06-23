@@ -9,7 +9,6 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
 - **Happy to talk about** automation, AI fundamentals, Cloud, and DevOps
 
 
-
 ##  Connect with Me 
 
 - **LinkedIn**: https://linkedin.com/in/punyaa-dixit   
