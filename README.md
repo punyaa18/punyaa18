@@ -1,7 +1,9 @@
 ## Hey, I’m Punyaa!  👋🏻
 
 I’m a Computer Science graduate who genuinely enjoys learning, building, and experimenting with technology. I’m especially interested in AI, automation, devOps and creating practical systems that solve real-world problems. 
-       
+<p align="center">
+  <img src="flight-to-uk_small.gif" width="100%" alt="Paper Plane Animation">
+</p>
 
 - **Currently working with** Microsoft Power Platform and AI integrations  
 - **Actively learning** Azure OpenAI, AWS, Power Automate, and Python  
@@ -19,7 +21,7 @@ I’m a Computer Science graduate who genuinely enjoys learning, building, and e
 I enjoy taking on challenging concepts and growing through hands-on work.
 
 <p align="center">
-  <img src="flight-to-uk_small.gif" width="600" alt="Paper Plane Animation">
+  <img src="flight-to-uk_small.gif" width="100%" alt="Paper Plane Animation">
 </p>
 
 ![snake gif](https://github.com/punyaa18/punyaa18/blob/output/github-snake.svg)
