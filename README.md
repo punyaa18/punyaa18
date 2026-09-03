@@ -6,17 +6,18 @@ No idea where i'll end up but im exicted!
   <img src="flight-to-uk_small.gif" width="100%" alt="Paper Plane Animation">
 </p>
 
+## Connect with Me 
+
+- **LinkedIn**: https://linkedin.com/in/punyaa-dixit   
+- **Portfolio**: https://punyaa18.github.io/Portfolio/  
+  - **Blog**: https://medium.com/@punyaa184
+
 - **Currently working with** Microsoft Power Platform and AI integrations  
 - **Actively learning** Azure OpenAI, AWS, Power Automate, and Python  
 - **Expanding skills in** Git, GitHub, Docker, and Linux  
 - **Happy to talk about** automation, AI fundamentals, Cloud, and DevOps
 
 
-## Connect with Me 
-
-- **LinkedIn**: https://linkedin.com/in/punyaa-dixit   
-- **Portfolio**: https://punyaa18.github.io/Portfolio/  
-  - **Blog**: https://medium.com/@punyaa184
 
   
 I enjoy taking on challenging concepts and growing through hands-on work.
