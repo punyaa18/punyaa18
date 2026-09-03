@@ -1,6 +1,7 @@
 ## Hey, I’m Punyaa!  👋🏻
 
 I’m a Computer Science graduate who genuinely enjoys learning, building, and experimenting with technology. I’m especially interested in AI, automation, devOps and creating practical systems that solve real-world problems. 
+No idea where i'll end up but im exicted!
 <p align="center">
   <img src="flight-to-uk_small.gif" width="100%" alt="Paper Plane Animation">
 </p>
