@@ -10,7 +10,7 @@ No idea where i'll end up but im exicted!
 
 - **LinkedIn**: https://linkedin.com/in/punyaa-dixit   
 - **Portfolio**: https://punyaa18.github.io/Portfolio/  
-  - **Blog**: https://medium.com/@punyaa184
+- **Blog**: https://medium.com/@punyaa184
 
 - **Currently working with** Microsoft Power Platform and AI integrations  
 - **Actively learning** Azure OpenAI, AWS, Power Automate, and Python  
